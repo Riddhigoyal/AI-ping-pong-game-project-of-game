@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color: magenta;
+    width: 100%;
+    background-image: linear-gradient(to right, red,rgb(255, 0, 119),rgb(255, 0, 242),rgb(204, 0, 255),blue);
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    background-color: mediumvioletred;
+}
+
+h4{
+    background-color: black;
+    line-height: 2;
+    margin: 0px;
+    color: blanchedalmond;
+}
+
+.modal-dialog{
+    width: 40%;
+}
+
+ol{
+    text-align: left;
+}
